@@ -1,0 +1,2739 @@
+[
+	{
+		"category_name": "Лето 2025",
+		"category_image": "/assets/images/lava.webp",
+		"image_url": "/assets/images/buz.webp",
+
+		"price": {
+			"1": "1400.00"
+		},
+		"product_id": "957",
+		"product_name": "Латте бузина",
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 148,
+				"name": "Кофе для Раф бузина",
+				"modifications": [
+					{
+						"dish_modification_id": 585,
+						"name": "Арабика 100 %",
+						"price": 0,
+						"image_url": "/assets/ico/coffee/arab.webp"
+					},
+					{
+						"dish_modification_id": 586,
+						"name": "Декаф",
+						"price": 300,
+						"image_url": "/assets/ico/coffee/decaf.webp"
+					}
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Лето 2025",
+		"category_image": "/assets/images/lava.webp",
+		"image_url": "/assets/images/lava.webp",
+		"workshop": "3",
+		"price": {
+			"1": "1400.00"
+		},
+		"product_id": "956",
+		"product_name": "Латте лаванда",
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 147,
+				"name": "Кофе для Раф лаванда",
+
+				"modifications": [
+					{
+						"dish_modification_id": 583,
+						"name": "Арабика 100 %",
+						"price": 0,
+						"image_url": "/assets/ico/coffee/arab.webp"
+					},
+					{
+						"dish_modification_id": 584,
+						"name": "Декаф",
+						"price": 300,
+						"image_url": "/assets/ico/coffee/decaf.webp"
+					}
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Лето 2025",
+		"category_image": "/assets/images/lava.webp",
+		"image_url": "/assets/images/orh.webp",
+		"workshop": "3",
+		"price": {
+			"1": "1400.00"
+		},
+		"product_id": "958",
+		"product_name": "Латте орхидея",
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 146,
+				"name": "Кофе для Раф орхидея",
+				"modifications": [
+					{
+						"dish_modification_id": 581,
+						"name": "Арабика 100 %",
+						"price": 0,
+						"image_url": "/assets/ico/coffee/arab.webp"
+					},
+					{
+						"dish_modification_id": 582,
+						"name": "Декаф",
+						"price": 300,
+						"image_url": "/assets/ico/coffee/decaf.webp"
+					}
+				]
+			}
+		]
+	},
+
+	{
+		"product_id": "410",
+		"product_name": "Americano L",
+		"category_name": "Coffee",
+		"image_url": "/assets/images/amer.webp",
+		"category_image": "/assets/images/flat.webp",
+		"price": {
+			"1": "900"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 45,
+				"name": "Зерно",
+				"modifications": [
+					{
+						"dish_modification_id": 189,
+						"name": "Арабика 100 %",
+						"price": 0,
+						"image_url": "/assets/ico/coffee/arab.webp"
+					},
+					{
+						"dish_modification_id": 190,
+						"name": "Декаф",
+						"price": 300,
+						"image_url": "/assets/ico/coffee/decaf.webp"
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 46,
+				"name": "Молоко",
+				"modifications": [
+					{
+						"dish_modification_id": 193,
+						"name": "Без молока",
+						"price": 0,
+						"image_url": "/assets/ico/milk/no_milk.webp"
+					},
+					{
+						"dish_modification_id": 191,
+						"name": "Стандартное",
+						"image_url": "/assets/ico/milk/milk.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 192,
+						"name": "Кокосовое",
+						"image_url": "/assets/ico/milk/coc_milk.webp",
+						"price": 200
+					},
+					{
+						"dish_modification_id": 403,
+						"name": "Миндальное",
+						"image_url": "/assets/ico/milk/alm_milk.webp",
+						"price": 200
+					},
+					{
+						"dish_modification_id": 404,
+						"name": "Фундучное",
+						"image_url": "/assets/ico/milk/haz_milk.webp",
+						"price": 200
+					},
+					{
+						"dish_modification_id": 405,
+						"name": "Соевое",
+						"image_url": "/assets/ico/milk/soya_milk.webp",
+						"price": 200
+					},
+					{
+						"dish_modification_id": 421,
+						"name": "Овсяное",
+						"image_url": "/assets/ico/milk/out_milk.webp",
+						"price": 200
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 73,
+				"name": "Сироп",
+				"modifications": [
+					{
+						"dish_modification_id": 246,
+						"name": "Без сиропа",
+						"image_url": "/assets/ico/syrup/no_syrup.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 247,
+						"name": "Карамель",
+						"image_url": "/assets/ico/syrup/car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 474,
+						"name": "Соленая карамель",
+						"image_url": "/assets/ico/syrup/salt_car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 475,
+						"name": "Ваниль",
+						"image_url": "/assets/ico/syrup/van.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 476,
+						"name": "Орех",
+						"image_url": "/assets/ico/syrup/haz.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 477,
+						"name": "Шоколад",
+						"image_url": "/assets/ico/syrup/choko.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 478,
+						"name": "Попкорн",
+						"image_url": "/assets/ico/syrup/pop.webp",
+						"price": 50
+					}
+				]
+			}
+		]
+	},
+	{
+		"product_id": "409",
+		"product_name": "Americano M",
+		"category_id": "33",
+		"category_name": "Coffee",
+		"category_image": "/assets/images/flat.webp",
+		"image_url": "/assets/images/amer.webp",
+		"price": {
+			"1": "800"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 43,
+				"name": "Зерно",
+				"modifications": [
+					{
+						"dish_modification_id": 184,
+						"name": "Арабика 100 %",
+						"price": 0,
+						"image_url": "/assets/ico/coffee/arab.webp"
+					},
+					{
+						"dish_modification_id": 185,
+						"name": "Декаф",
+						"price": 300,
+						"image_url": "/assets/ico/coffee/decaf.webp"
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 44,
+				"name": "Молоко",
+				"modifications": [
+					{
+						"dish_modification_id": 188,
+						"name": "Без молока",
+						"price": 0,
+						"image_url": "/assets/ico/milk/no_milk.webp"
+					},
+					{
+						"dish_modification_id": 186,
+						"name": "Стандартное",
+						"image_url": "/assets/ico/milk/milk.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 187,
+						"name": "Кокосовое",
+						"image_url": "/assets/ico/milk/coc_milk.webp",
+						"price": 150
+					},
+					{
+						"dish_modification_id": 406,
+						"name": "Миндальное",
+						"image_url": "/assets/ico/milk/alm_milk.webp",
+						"price": 150
+					},
+					{
+						"dish_modification_id": 407,
+						"name": "Фундучное",
+						"image_url": "/assets/ico/milk/haz_milk.webp",
+						"price": 150
+					},
+					{
+						"dish_modification_id": 408,
+						"name": "Соевое",
+						"image_url": "/assets/ico/milk/soya_milk.webp",
+						"price": 150
+					},
+					{
+						"dish_modification_id": 422,
+						"name": "Овсяное",
+						"image_url": "/assets/ico/milk/out_milk.webp",
+						"price": 150
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 74,
+				"name": "Сироп",
+				"modifications": [
+					{
+						"dish_modification_id": 248,
+						"name": "Без сиропа",
+						"image_url": "/assets/ico/syrup/no_syrup.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 249,
+						"name": "Карамель",
+						"image_url": "/assets/ico/syrup/car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 469,
+						"name": "Соленая карамель",
+						"image_url": "/assets/ico/syrup/salt_car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 470,
+						"name": "Ваниль",
+						"image_url": "/assets/ico/syrup/van.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 471,
+						"name": "Орех",
+						"image_url": "/assets/ico/syrup/haz.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 472,
+						"name": "Шоколад",
+						"image_url": "/assets/ico/syrup/choko.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 473,
+						"name": "Попкорн",
+						"image_url": "/assets/ico/syrup/pop.webp",
+						"price": 50
+					}
+				]
+			}
+		]
+	},
+	{
+		"product_id": "408",
+		"product_name": "Americano S",
+		"category_id": "33",
+		"category_name": "Coffee",
+		"category_image": "/assets/images/flat.webp",
+		"image_url": "/assets/images/amer.webp",
+		"price": {
+			"1": "700"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 41,
+				"name": "Зерно",
+				"modifications": [
+					{
+						"dish_modification_id": 291,
+						"name": "Арабика 100 %",
+						"price": 0,
+						"image_url": "/assets/ico/coffee/arab.webp"
+					},
+					{
+						"dish_modification_id": 292,
+						"name": "Декаф",
+						"price": 150,
+						"image_url": "/assets/ico/coffee/decaf.webp"
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 42,
+				"name": "Молоко",
+				"modifications": [
+					{
+						"dish_modification_id": 183,
+						"name": "Без молока",
+						"price": 0,
+						"image_url": "/assets/ico/milk/no_milk.webp"
+					},
+					{
+						"dish_modification_id": 181,
+						"name": "Стандартное",
+						"image_url": "/assets/ico/milk/milk.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 182,
+						"name": "Кокосовое",
+						"image_url": "/assets/ico/milk/coc_milk.webp",
+						"price": 100
+					},
+					{
+						"dish_modification_id": 409,
+						"name": "Миндальное",
+						"image_url": "/assets/ico/milk/alm_milk.webp",
+						"price": 100
+					},
+					{
+						"dish_modification_id": 410,
+						"name": "Фундучное",
+						"image_url": "/assets/ico/milk/haz_milk.webp",
+						"price": 100
+					},
+					{
+						"dish_modification_id": 411,
+						"name": "Соевое",
+						"image_url": "/assets/ico/milk/soya_milk.webp",
+						"price": 100
+					},
+					{
+						"dish_modification_id": 423,
+						"name": "Овсяное",
+						"image_url": "/assets/ico/milk/out_milk.webp",
+						"price": 100
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 75,
+				"name": "Сироп",
+				"modifications": [
+					{
+						"dish_modification_id": 250,
+						"name": "Без сиропа",
+						"image_url": "/assets/ico/syrup/no_syrup.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 251,
+						"name": "Карамель",
+						"image_url": "/assets/ico/syrup/car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 464,
+						"name": "Соленая карамель",
+						"image_url": "/assets/ico/syrup/salt_car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 465,
+						"name": "Ваниль",
+						"image_url": "/assets/ico/syrup/van.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 466,
+						"name": "Орех",
+						"image_url": "/assets/ico/syrup/haz.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 467,
+						"name": "Шоколад",
+						"image_url": "/assets/ico/syrup/choko.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 468,
+						"name": "Попкорн",
+						"image_url": "/assets/ico/syrup/pop.webp",
+						"price": 50
+					}
+				]
+			}
+		]
+	},
+	{
+		"product_id": "413",
+		"product_name": "Cappuccino L",
+		"category_id": "34",
+		"category_name": "Coffee",
+		"category_image": "/assets/images/flat.webp",
+		"image_url": "/assets/images/cup.webp",
+		"price": {
+			"1": "1000"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 51,
+				"name": "Зерно",
+				"modifications": [
+					{
+						"dish_modification_id": 202,
+						"name": "Арабика 100 %",
+						"price": 0,
+						"image_url": "/assets/ico/coffee/arab.webp"
+					},
+					{
+						"dish_modification_id": 203,
+						"name": "Декаф",
+						"price": 300,
+						"image_url": "/assets/ico/coffee/decaf.webp"
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 52,
+				"name": "Молоко",
+				"modifications": [
+					{
+						"dish_modification_id": 204,
+						"name": "Стандартное",
+						"image_url": "/assets/ico/milk/milk.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 205,
+						"name": "Кокосовое",
+						"image_url": "/assets/ico/milk/coc_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 394,
+						"name": "Миндальное",
+						"image_url": "/assets/ico/milk/alm_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 395,
+						"name": "Фундучное",
+						"image_url": "/assets/ico/milk/haz_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 396,
+						"name": "Соевое",
+						"image_url": "/assets/ico/milk/soya_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 420,
+						"name": "Овсяное",
+						"image_url": "/assets/ico/milk/out_milk.webp",
+						"price": 300
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 76,
+				"name": "Сироп",
+				"modifications": [
+					{
+						"dish_modification_id": 252,
+						"name": "Без сиропа",
+						"image_url": "/assets/ico/syrup/no_syrup.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 253,
+						"name": "Карамель",
+						"image_url": "/assets/ico/syrup/car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 449,
+						"name": "Соленая карамель",
+						"image_url": "/assets/ico/syrup/salt_car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 450,
+						"name": "Ваниль",
+						"image_url": "/assets/ico/syrup/van.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 451,
+						"name": "Орех",
+						"image_url": "/assets/ico/syrup/haz.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 452,
+						"name": "Шоколад",
+						"image_url": "/assets/ico/syrup/choko.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 453,
+						"name": "Попкорн",
+						"image_url": "/assets/ico/syrup/pop.webp",
+						"price": 50
+					}
+				]
+			}
+		]
+	},
+	{
+		"product_id": "412",
+		"product_name": "Cappuccino M",
+		"category_id": "34",
+		"category_name": "Coffee",
+		"category_image": "/assets/images/flat.webp",
+		"image_url": "/assets/images/cup.webp",
+		"price": {
+			"1": "900"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 49,
+				"name": "Зерно",
+				"modifications": [
+					{
+						"dish_modification_id": 198,
+						"name": "Арабика 100 %",
+						"price": 0,
+						"image_url": "/assets/ico/coffee/arab.webp"
+					},
+					{
+						"dish_modification_id": 199,
+						"name": "Декаф",
+						"price": 300,
+						"image_url": "/assets/ico/coffee/decaf.webp"
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 50,
+				"name": "Молоко",
+				"modifications": [
+					{
+						"dish_modification_id": 200,
+						"name": "Стандартное",
+						"image_url": "/assets/ico/milk/milk.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 201,
+						"name": "Кокосовое",
+						"image_url": "/assets/ico/milk/coc_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 391,
+						"name": "Миндальное",
+						"image_url": "/assets/ico/milk/alm_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 392,
+						"name": "Фундучное",
+						"image_url": "/assets/ico/milk/haz_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 393,
+						"name": "Соевое",
+						"image_url": "/assets/ico/milk/soya_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 424,
+						"name": "Овсяное",
+						"image_url": "/assets/ico/milk/out_milk.webp",
+						"price": 300
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 77,
+				"name": "Сироп",
+				"modifications": [
+					{
+						"dish_modification_id": 254,
+						"name": "Без сиропа",
+						"image_url": "/assets/ico/syrup/no_syrup.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 436,
+						"name": "Карамель",
+						"image_url": "/assets/ico/syrup/car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 437,
+						"name": "Ваниль",
+						"image_url": "/assets/ico/syrup/van.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 438,
+						"name": "Шоколад",
+						"image_url": "/assets/ico/syrup/choko.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 439,
+						"name": "Орех",
+						"image_url": "/assets/ico/syrup/haz.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 440,
+						"name": "Соленая карамель ",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 441,
+						"name": "Попкорн",
+						"image_url": "/assets/ico/syrup/pop.webp",
+						"price": 50
+					}
+				]
+			}
+		]
+	},
+	{
+		"product_id": "411",
+		"product_name": "Cappuccino S",
+		"category_id": "34",
+		"category_name": "Coffee",
+		"category_image": "/assets/images/flat.webp",
+		"image_url": "/assets/images/cup.webp",
+		"price": {
+			"1": "800"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 47,
+				"name": "Зерно",
+				"modifications": [
+					{
+						"dish_modification_id": 194,
+						"name": "Арабика 100 %",
+						"price": 0,
+						"image_url": "/assets/ico/coffee/arab.webp"
+					},
+					{
+						"dish_modification_id": 195,
+						"name": "Декаф",
+						"price": 150,
+						"image_url": "/assets/ico/coffee/decaf.webp"
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 48,
+				"name": "Молоко",
+				"modifications": [
+					{
+						"dish_modification_id": 196,
+						"name": "Стандартное",
+						"image_url": "/assets/ico/milk/milk.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 197,
+						"name": "Кокосовое",
+						"image_url": "/assets/ico/milk/coc_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 388,
+						"name": "Миндальное",
+						"image_url": "/assets/ico/milk/alm_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 389,
+						"name": "Фундучное",
+						"image_url": "/assets/ico/milk/haz_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 390,
+						"name": "Соевое",
+						"image_url": "/assets/ico/milk/soya_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 425,
+						"name": "Овсяное",
+						"image_url": "/assets/ico/milk/out_milk.webp",
+						"price": 300
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 78,
+				"name": "Сироп",
+				"modifications": [
+					{
+						"dish_modification_id": 256,
+						"name": "Без сиропа",
+						"image_url": "/assets/ico/syrup/no_syrup.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 257,
+						"name": "Карамель",
+						"image_url": "/assets/ico/syrup/car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 444,
+						"name": "Соленая карамель",
+						"image_url": "/assets/ico/syrup/salt_car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 445,
+						"name": "Ваниль",
+						"image_url": "/assets/ico/syrup/van.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 446,
+						"name": "Орех",
+						"image_url": "/assets/ico/syrup/haz.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 447,
+						"name": "Шоколад",
+						"image_url": "/assets/ico/syrup/choko.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 448,
+						"name": "Попкорн",
+						"image_url": "/assets/ico/syrup/pop.webp",
+						"price": 50
+					}
+				]
+			}
+		]
+	},
+	{
+		"product_id": "417",
+		"product_name": "Latte L",
+		"category_id": "35",
+		"category_name": "Coffee",
+		"category_image": "/assets/images/flat.webp",
+		"image_url": "/assets/images/latte.webp",
+		"price": {
+			"1": "1000"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 57,
+				"name": "Зерно",
+				"modifications": [
+					{
+						"dish_modification_id": 214,
+						"name": "Арабика 100 %",
+						"price": 0,
+						"image_url": "/assets/ico/coffee/arab.webp"
+					},
+					{
+						"dish_modification_id": 215,
+						"name": "Декаф",
+						"price": 300,
+						"image_url": "/assets/ico/coffee/decaf.webp"
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 58,
+				"name": "Молоко",
+				"modifications": [
+					{
+						"dish_modification_id": 216,
+						"name": "Стандартное",
+						"image_url": "/assets/ico/milk/milk.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 217,
+						"name": "Кокосовое",
+						"image_url": "/assets/ico/milk/coc_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 397,
+						"name": "Миндальное",
+						"image_url": "/assets/ico/milk/alm_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 398,
+						"name": "Фундучное",
+						"image_url": "/assets/ico/milk/haz_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 399,
+						"name": "Соевое",
+						"image_url": "/assets/ico/milk/soya_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 426,
+						"name": "Овсяное",
+						"image_url": "/assets/ico/milk/out_milk.webp",
+						"price": 300
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 79,
+				"name": "Сироп",
+				"modifications": [
+					{
+						"dish_modification_id": 258,
+						"name": "Без сиропа",
+						"image_url": "/assets/ico/syrup/no_syrup.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 259,
+						"name": "Карамель",
+						"image_url": "/assets/ico/syrup/car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 454,
+						"name": "Соленая карамель",
+						"image_url": "/assets/ico/syrup/salt_car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 455,
+						"name": "Ваниль",
+						"image_url": "/assets/ico/syrup/van.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 456,
+						"name": "Орех",
+						"image_url": "/assets/ico/syrup/haz.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 457,
+						"name": "Шоколад",
+						"image_url": "/assets/ico/syrup/choko.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 458,
+						"name": "Попкорн",
+						"image_url": "/assets/ico/syrup/pop.webp",
+						"price": 50
+					}
+				]
+			}
+		]
+	},
+	{
+		"product_id": "416",
+		"product_name": "Latte M",
+		"category_id": "35",
+		"category_name": "Coffee",
+		"category_image": "/assets/images/flat.webp",
+		"image_url": "/assets/images/latte.webp",
+		"price": {
+			"1": "900"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 55,
+				"name": "Зерно",
+				"modifications": [
+					{
+						"dish_modification_id": 210,
+						"name": "Арабика 100 %",
+						"price": 0,
+						"image_url": "/assets/ico/coffee/arab.webp"
+					},
+					{
+						"dish_modification_id": 211,
+						"name": "Декаф",
+						"price": 150,
+						"image_url": "/assets/ico/coffee/decaf.webp"
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 56,
+				"name": "Молоко",
+				"modifications": [
+					{
+						"dish_modification_id": 212,
+						"name": "Стандартное",
+						"image_url": "/assets/ico/milk/milk.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 213,
+						"name": "Кокосовое",
+						"image_url": "/assets/ico/milk/coc_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 400,
+						"name": "Миндальное",
+						"image_url": "/assets/ico/milk/alm_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 401,
+						"name": "Фундучное",
+						"image_url": "/assets/ico/milk/haz_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 402,
+						"name": "Соевое",
+						"image_url": "/assets/ico/milk/soya_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 427,
+						"name": "Овсяное",
+						"image_url": "/assets/ico/milk/out_milk.webp",
+						"price": 300
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 80,
+				"name": "Сироп",
+				"modifications": [
+					{
+						"dish_modification_id": 260,
+						"name": "Без сиропа",
+						"image_url": "/assets/ico/syrup/no_syrup.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 261,
+						"name": "Карамель",
+						"image_url": "/assets/ico/syrup/car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 459,
+						"name": "Соленая карамель",
+						"image_url": "/assets/ico/syrup/salt_car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 460,
+						"name": "Ваниль",
+						"image_url": "/assets/ico/syrup/van.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 461,
+						"name": "Орех",
+						"image_url": "/assets/ico/syrup/haz.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 462,
+						"name": "Шоколад",
+						"image_url": "/assets/ico/syrup/choko.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 463,
+						"name": "Попкорн",
+						"image_url": "/assets/ico/syrup/pop.webp",
+						"price": 50
+					}
+				]
+			}
+		]
+	},
+	{
+		"product_id": "286",
+		"product_name": "Flat White ",
+		"category_id": "19",
+		"category_name": "Coffee",
+		"category_image": "/assets/images/flat.webp",
+		"image_url": "/assets/images/flat.webp",
+		"price": {
+			"1": "900"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 70,
+				"name": "Зерно",
+				"modifications": [
+					{
+						"dish_modification_id": 240,
+						"name": "Арабика 100 %",
+						"price": 0,
+						"image_url": "/assets/ico/coffee/arab.webp"
+					},
+					{
+						"dish_modification_id": 241,
+						"name": "Декаф",
+						"price": 300,
+						"image_url": "/assets/ico/coffee/decaf.webp"
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 71,
+				"name": "Молоко",
+				"modifications": [
+					{
+						"dish_modification_id": 242,
+						"name": "Стандартное",
+						"image_url": "/assets/ico/milk/milk.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 243,
+						"name": "Кокосовое",
+						"image_url": "/assets/ico/milk/coc_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 487,
+						"name": "Миндальное",
+						"image_url": "/assets/ico/milk/alm_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 488,
+						"name": "Фундучное",
+						"image_url": "/assets/ico/milk/haz_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 489,
+						"name": "Соевое",
+						"image_url": "/assets/ico/milk/soya_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 490,
+						"name": "Овсяное",
+						"image_url": "/assets/ico/milk/out_milk.webp",
+						"price": 300
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 72,
+				"name": "Сироп",
+				"modifications": [
+					{
+						"dish_modification_id": 244,
+						"name": "Без сиропа",
+						"image_url": "/assets/ico/syrup/no_syrup.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 245,
+						"name": "Карамель",
+						"image_url": "/assets/ico/syrup/car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 491,
+						"name": "Соленая карамель",
+						"image_url": "/assets/ico/syrup/salt_car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 492,
+						"name": "Ваниль",
+						"image_url": "/assets/ico/syrup/van.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 493,
+						"name": "Шоколад",
+						"image_url": "/assets/ico/syrup/choko.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 494,
+						"name": "Орех",
+						"image_url": "/assets/ico/syrup/haz.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 495,
+						"name": "Попкорн",
+						"image_url": "/assets/ico/syrup/pop.webp",
+						"price": 50
+					}
+				]
+			}
+		]
+	},
+	{
+		"product_id": "422",
+		"product_name": "Raf L",
+		"category_id": "37",
+		"category_name": "Coffee",
+		"category_image": "/assets/images/flat.webp",
+		"image_url": "/assets/images/raf.webp",
+		"price": {
+			"1": "1100"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 61,
+				"name": "Зерно",
+				"modifications": [
+					{
+						"dish_modification_id": 222,
+						"name": "Арабика 100 %",
+						"price": 0,
+						"image_url": "/assets/ico/coffee/arab.webp"
+					},
+					{
+						"dish_modification_id": 223,
+						"name": "Декаф",
+						"price": 300,
+						"image_url": "/assets/ico/coffee/decaf.webp"
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 62,
+				"name": "Сироп",
+				"modifications": [
+					{
+						"dish_modification_id": 224,
+						"name": "Без сиропа",
+						"image_url": "/assets/ico/syrup/no_syrup.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 225,
+						"name": "Карамель",
+						"image_url": "/assets/ico/syrup/car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 518,
+						"name": "Соленая карамель",
+						"image_url": "/assets/ico/syrup/salt_car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 519,
+						"name": "Ваниль",
+						"image_url": "/assets/ico/syrup/van.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 520,
+						"name": "Орех",
+						"image_url": "/assets/ico/syrup/haz.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 521,
+						"name": "Шоколад",
+						"image_url": "/assets/ico/syrup/choko.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 522,
+						"name": "Попкорн",
+						"image_url": "/assets/ico/syrup/pop.webp",
+						"price": 50
+					}
+				]
+			}
+		]
+	},
+	{
+		"product_id": "423",
+		"product_name": "Raf M",
+		"category_id": "37",
+		"category_name": "Coffee",
+		"category_image": "/assets/images/flat.webp",
+		"image_url": "/assets/images/raf.webp",
+		"price": {
+			"1": "1000"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 63,
+				"name": "Зерно",
+				"modifications": [
+					{
+						"dish_modification_id": 226,
+						"name": "Арабика 100 %",
+						"price": 0,
+						"image_url": "/assets/ico/coffee/arab.webp"
+					},
+					{
+						"dish_modification_id": 227,
+						"name": "Декаф",
+						"price": 300,
+						"image_url": "/assets/ico/coffee/decaf.webp"
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 65,
+				"name": "Сироп",
+				"modifications": [
+					{
+						"dish_modification_id": 230,
+						"name": "Без сиропа",
+						"image_url": "/assets/ico/syrup/no_syrup.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 231,
+						"name": "Карамель",
+						"image_url": "/assets/ico/syrup/car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 559,
+						"name": "Соленая карамель",
+						"image_url": "/assets/ico/syrup/salt_car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 560,
+						"name": "Ваниль",
+						"image_url": "/assets/ico/syrup/van.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 561,
+						"name": "Орех",
+						"image_url": "/assets/ico/syrup/haz.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 562,
+						"name": "Шоколад",
+						"image_url": "/assets/ico/syrup/choko.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 563,
+						"name": "Попкорн",
+						"image_url": "/assets/ico/syrup/pop.webp",
+						"price": 50
+					}
+				]
+			}
+		]
+	},
+	{
+		"product_id": "424",
+		"product_name": "Raf S",
+		"category_id": "37",
+		"category_name": "Coffee",
+		"category_image": "/assets/images/flat.webp",
+		"image_url": "/assets/images/raf.webp",
+		"price": {
+			"1": "900"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 64,
+				"name": "Зерно",
+				"modifications": [
+					{
+						"dish_modification_id": 228,
+						"name": "Арабика 100 %",
+						"price": 0,
+						"image_url": "/assets/ico/coffee/arab.webp"
+					},
+					{
+						"dish_modification_id": 229,
+						"name": "Декаф",
+						"price": 150,
+						"image_url": "/assets/ico/coffee/decaf.webp"
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 66,
+				"name": "Сироп",
+				"modifications": [
+					{
+						"dish_modification_id": 232,
+						"name": "Без сиропа",
+						"image_url": "/assets/ico/syrup/no_syrup.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 233,
+						"name": "Карамель",
+						"image_url": "/assets/ico/syrup/car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 564,
+						"name": "Соленая карамель",
+						"image_url": "/assets/ico/syrup/salt_car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 565,
+						"name": "Ваниль",
+						"image_url": "/assets/ico/syrup/van.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 566,
+						"name": "Орех",
+						"image_url": "/assets/ico/syrup/haz.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 567,
+						"name": "Шоколад",
+						"image_url": "/assets/ico/syrup/choko.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 568,
+						"name": "Попкорн",
+						"image_url": "/assets/ico/syrup/pop.webp",
+						"price": 50
+					}
+				]
+			}
+		]
+	},
+
+	{
+		"product_id": "918",
+		"product_name": "Брусничный чай",
+		"category_id": "25",
+		"category_name": "Tea",
+		"category_image": "/assets/images/tash.webp",
+		"image_url": "/assets/images/brus.webp",
+		"price": {
+			"1": "850"
+		},
+		"group_modifications": []
+	},
+	{
+		"product_id": "654",
+		"product_name": "Имбирный чай",
+		"category_id": "25",
+		"category_name": "Tea",
+		"category_image": "/assets/images/tash.webp",
+		"image_url": "/assets/images/ging.webp",
+		"price": {
+			"1": "850"
+		},
+		"group_modifications": []
+	},
+	{
+		"product_id": "329",
+		"product_name": "Облепиховый чай",
+		"category_id": "25",
+		"category_name": "Tea",
+		"category_image": "/assets/images/tash.webp",
+		"image_url": "/assets/images/oble.webp",
+		"price": {
+			"1": "850"
+		},
+		"group_modifications": []
+	},
+	{
+		"product_id": "378",
+		"product_name": "Ташкентский Чай",
+		"category_id": "25",
+		"category_name": "Tea",
+		"category_image": "/assets/images/tash.webp",
+		"image_url": "/assets/images/tash.webp",
+		"price": {
+			"1": "850"
+		},
+		"group_modifications": []
+	},
+	{
+		"product_id": "426",
+		"product_name": "Чай 0,35",
+		"category_id": "25",
+		"category_name": "Tea",
+		"category_image": "/assets/images/tash.webp",
+		"image_url": "/assets/images/brus.webp",
+		"price": {
+			"1": "200"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 84,
+				"name": "Молоко",
+				"modifications": [
+					{
+						"dish_modification_id": 270,
+						"name": "Без молока",
+						"price": 0,
+						"image_url": "/assets/ico/milk/no_milk.webp"
+					},
+					{
+						"dish_modification_id": 268,
+						"name": "Стандартное",
+						"image_url": "/assets/ico/milk/milk.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 269,
+						"name": "Кокосовое",
+						"image_url": "/assets/ico/milk/coc_milk.webp",
+						"price": 150
+					},
+					{
+						"dish_modification_id": 496,
+						"name": "Миндальное",
+						"image_url": "/assets/ico/milk/alm_milk.webp",
+						"price": 150
+					},
+					{
+						"dish_modification_id": 497,
+						"name": "Фундучное",
+						"image_url": "/assets/ico/milk/haz_milk.webp",
+						"price": 150
+					},
+					{
+						"dish_modification_id": 498,
+						"name": "Соевое",
+						"image_url": "/assets/ico/milk/soya_milk.webp",
+						"price": 150
+					},
+					{
+						"dish_modification_id": 499,
+						"name": "Овсяное",
+						"image_url": "/assets/ico/milk/out_milk.webp",
+						"price": 150
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 114,
+				"name": "Добавки",
+				"modifications": [
+					{
+						"dish_modification_id": 340,
+						"name": "Лимон",
+						"image_url": "/assets/ico/lemon.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 341,
+						"name": "Мёд",
+						"image_url": "assets/ico/bal.webp",
+						"price": 50
+					}
+				]
+			}
+		]
+	},
+	{
+		"product_id": "425",
+		"product_name": "Чай 0,45",
+		"category_id": "25",
+		"category_name": "Tea",
+		"category_image": "/assets/images/tash.webp",
+		"image_url": "/assets/images/brus.webp",
+		"price": {
+			"1": "250"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 83,
+				"name": "Молоко",
+				"modifications": [
+					{
+						"dish_modification_id": 271,
+						"name": "Без молока",
+						"price": 0,
+						"image_url": "/assets/ico/milk/no_milk.webp"
+					},
+					{
+						"dish_modification_id": 266,
+						"name": "Стандартное",
+						"image_url": "/assets/ico/milk/milk.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 267,
+						"name": "Кокосовое",
+						"image_url": "/assets/ico/milk/coc_milk.webp",
+						"price": 200
+					},
+					{
+						"dish_modification_id": 573,
+						"name": "Миндальное",
+						"image_url": "/assets/ico/milk/alm_milk.webp",
+						"price": 200
+					},
+					{
+						"dish_modification_id": 574,
+						"name": "Фундучное",
+						"image_url": "/assets/ico/milk/haz_milk.webp",
+						"price": 200
+					},
+					{
+						"dish_modification_id": 575,
+						"name": "Соевое",
+						"image_url": "/assets/ico/milk/soya_milk.webp",
+						"price": 200
+					},
+					{
+						"dish_modification_id": 576,
+						"name": "Овсяное",
+						"image_url": "/assets/ico/milk/out_milk.webp",
+						"price": 200
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 115,
+				"name": "Добавки",
+				"modifications": [
+					{
+						"dish_modification_id": 342,
+						"name": "Лимон",
+						"image_url": "/assets/ico/lemon.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 343,
+						"name": "Мёд",
+						"image_url": "/assets/ico/bal.webp",
+						"price": 50
+					}
+				]
+			}
+		]
+	},
+
+	{
+		"product_id": "564",
+		"product_name": "Ice Matha",
+		"category_id": "2",
+		"category_name": "Ice drinks",
+		"category_image": "/assets/images/icekam.webp",
+		"image_url": "/assets/images/icekam.webp",
+		"price": {
+			"1": "1000"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 127,
+				"name": "Выбор матчи",
+				"modifications": [
+					{
+						"dish_modification_id": 369,
+						"name": "Зеленая матча",
+						"price": 0,
+						"image_url": "/assets/ico/green.webp"
+					},
+					{
+						"dish_modification_id": 370,
+						"name": "Синяя матча",
+						"image_url": "/assets/ico/blue.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 371,
+						"name": "Розовая матча",
+						"image_url": "/assets/ico/ros.webp",
+						"price": 0
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 129,
+				"name": "Молоко",
+				"modifications": [
+					{
+						"dish_modification_id": 374,
+						"name": "Стандартное",
+						"image_url": "/assets/ico/milk/milk.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 375,
+						"name": "Кокосовое",
+						"image_url": "/assets/ico/milk/coc_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 514,
+						"name": "Миндальное",
+						"image_url": "/assets/ico/milk/alm_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 515,
+						"name": "Фундучное",
+						"image_url": "/assets/ico/milk/haz_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 516,
+						"name": "Соевое",
+						"image_url": "/assets/ico/milk/soya_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 517,
+						"name": "Овсяное",
+						"image_url": "/assets/ico/milk/out_milk.webp",
+						"price": 300
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 128,
+				"name": "Сироп",
+				"modifications": [
+					{
+						"dish_modification_id": 372,
+						"name": "Без сиропа",
+						"image_url": "/assets/ico/syrup/no_syrup.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 373,
+						"name": "Карамель",
+						"image_url": "/assets/ico/syrup/car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 509,
+						"name": "Соленая карамель",
+						"image_url": "/assets/ico/syrup/salt_car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 510,
+						"name": "Шоколад",
+						"image_url": "/assets/ico/syrup/choko.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 511,
+						"name": "Ваниль",
+						"image_url": "/assets/ico/syrup/van.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 512,
+						"name": "Орех",
+						"image_url": "/assets/ico/syrup/haz.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 513,
+						"name": "Попкорн",
+						"image_url": "/assets/ico/syrup/pop.webp",
+						"price": 50
+					}
+				]
+			}
+		]
+	},
+	{
+		"product_id": "954",
+		"product_name": "Bumble matcha L",
+		"category_id": "38",
+		"category_name": "Ice drinks",
+		"category_image": "/assets/images/icekam.webp",
+		"image_url": "/assets/images/bummat.webp",
+		"price": {
+			"1": "1600"
+		},
+		"group_modifications": []
+	},
+	{
+		"product_id": "952",
+		"product_name": "Bumble matcha M",
+		"category_id": "38",
+		"category_name": "Ice drinks",
+		"category_image": "/assets/images/icekam.webp",
+		"image_url": "/assets/images/bummat.webp",
+		"price": {
+			"1": "1300"
+		},
+		"group_modifications": []
+	},
+	{
+		"product_id": "955",
+		"product_name": "Matcha tonic L",
+		"category_id": "38",
+		"category_name": "Ice drinks",
+		"category_image": "/assets/images/icekam.webp",
+		"image_url": "/assets/images/matton.webp",
+		"price": {
+			"1": "1600"
+		},
+		"group_modifications": []
+	},
+	{
+		"product_id": "953",
+		"product_name": "Matcha tonic M",
+		"category_id": "38",
+		"category_name": "Ice drinks",
+		"category_image": "/assets/images/icekam.webp",
+		"image_url": "/assets/images/matton.webp",
+		"price": {
+			"1": "1300"
+		},
+		"group_modifications": []
+	},
+
+	{
+		"product_id": "429",
+		"product_name": "Ice Americano L",
+		"category_id": "39",
+		"category_name": "Ice Coffee",
+		"category_image": "/assets/images/icelatte.webp",
+		"image_url": "/assets/images/iceamer.webp",
+		"price": {
+			"1": "900"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 91,
+				"name": "Зерно",
+				"modifications": [
+					{
+						"dish_modification_id": 286,
+						"name": "Арабика 100 %",
+						"price": 0,
+						"image_url": "/assets/ico/coffee/arab.webp"
+					},
+					{
+						"dish_modification_id": 287,
+						"name": "Декаф",
+						"price": 300,
+						"image_url": "/assets/ico/coffee/decaf.webp"
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 92,
+				"name": "Молоко",
+				"modifications": [
+					{
+						"dish_modification_id": 288,
+						"name": "Без молока",
+						"price": 0,
+						"image_url": "/assets/ico/milk/no_milk.webp"
+					},
+					{
+						"dish_modification_id": 289,
+						"name": "Стандартное",
+						"image_url": "/assets/ico/milk/milk.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 290,
+						"name": "Кокосовое",
+						"image_url": "/assets/ico/milk/coc_milk.webp",
+						"price": 200
+					},
+					{
+						"dish_modification_id": 523,
+						"name": "Миндальное",
+						"image_url": "/assets/ico/milk/alm_milk.webp",
+						"price": 200
+					},
+					{
+						"dish_modification_id": 524,
+						"name": "Фундучное",
+						"image_url": "/assets/ico/milk/haz_milk.webp",
+						"price": 200
+					},
+					{
+						"dish_modification_id": 525,
+						"name": "Соевое",
+						"image_url": "/assets/ico/milk/soya_milk.webp",
+						"price": 200
+					},
+					{
+						"dish_modification_id": 526,
+						"name": "Овсяное",
+						"image_url": "/assets/ico/milk/out_milk.webp",
+						"price": 200
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 93,
+				"name": "Сироп",
+				"modifications": [
+					{
+						"dish_modification_id": 293,
+						"name": "Без сиропа",
+						"image_url": "/assets/ico/syrup/no_syrup.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 294,
+						"name": "Карамель",
+						"image_url": "/assets/ico/syrup/car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 527,
+						"name": "Соленая карамель",
+						"image_url": "/assets/ico/syrup/salt_car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 528,
+						"name": "Шоколад",
+						"image_url": "/assets/ico/syrup/choko.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 529,
+						"name": "Ваниль",
+						"image_url": "/assets/ico/syrup/van.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 530,
+						"name": "Орех",
+						"image_url": "/assets/ico/syrup/haz.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 531,
+						"name": "Попкорн",
+						"image_url": "/assets/ico/syrup/pop.webp",
+						"price": 50
+					}
+				]
+			}
+		]
+	},
+	{
+		"product_id": "428",
+		"product_name": "Ice Americano M",
+		"category_id": "39",
+		"category_name": "Ice Coffee",
+		"category_image": "/assets/images/icelatte.webp",
+		"image_url": "/assets/images/iceamer.webp",
+		"price": {
+			"1": "800"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 88,
+				"name": "Зерно",
+				"modifications": [
+					{
+						"dish_modification_id": 279,
+						"name": "Арабика 100 %",
+						"price": 0,
+						"image_url": "/assets/ico/coffee/arab.webp"
+					},
+					{
+						"dish_modification_id": 280,
+						"name": "Декаф",
+						"price": 300,
+						"image_url": "/assets/ico/coffee/decaf.webp"
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 89,
+				"name": "Молоко",
+				"modifications": [
+					{
+						"dish_modification_id": 281,
+						"name": "Без молока",
+						"price": 0,
+						"image_url": "/assets/ico/milk/no_milk.webp"
+					},
+					{
+						"dish_modification_id": 282,
+						"name": "Стандартное",
+						"image_url": "/assets/ico/milk/milk.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 283,
+						"name": "Кокосовое",
+						"image_url": "/assets/ico/milk/coc_milk.webp",
+						"price": 150
+					},
+					{
+						"dish_modification_id": 537,
+						"name": "Миндальное",
+						"image_url": "/assets/ico/milk/alm_milk.webp",
+						"price": 150
+					},
+					{
+						"dish_modification_id": 538,
+						"name": "Фундучное",
+						"image_url": "/assets/ico/milk/haz_milk.webp",
+						"price": 150
+					},
+					{
+						"dish_modification_id": 539,
+						"name": "Соевое",
+						"image_url": "/assets/ico/milk/soya_milk.webp",
+						"price": 150
+					},
+					{
+						"dish_modification_id": 540,
+						"name": "Овсяное",
+						"image_url": "/assets/ico/milk/out_milk.webp",
+						"price": 150
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 90,
+				"name": "Сироп",
+				"modifications": [
+					{
+						"dish_modification_id": 284,
+						"name": "Без списания",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 285,
+						"name": "Карамель",
+						"image_url": "/assets/ico/syrup/car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 541,
+						"name": "Соленая карамель",
+						"image_url": "/assets/ico/syrup/salt_car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 542,
+						"name": "Шоколад",
+						"image_url": "/assets/ico/syrup/choko.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 543,
+						"name": "Ваниль",
+						"image_url": "/assets/ico/syrup/van.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 544,
+						"name": "Орех",
+						"image_url": "/assets/ico/syrup/haz.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 545,
+						"name": "Попкорн",
+						"image_url": "/assets/ico/syrup/pop.webp",
+						"price": 50
+					}
+				]
+			}
+		]
+	},
+	{
+		"product_id": "433",
+		"product_name": "Ice Latte L",
+		"category_id": "41",
+		"category_name": "Ice Coffee",
+		"category_image": "/assets/images/icelatte.webp",
+		"image_url": "/assets/images/icelatte.webp",
+		"price": {
+			"1": "1000"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 103,
+				"name": "Зерно",
+				"modifications": [
+					{
+						"dish_modification_id": 316,
+						"name": "Арабика 100 %",
+						"price": 0,
+						"image_url": "/assets/ico/coffee/arab.webp"
+					},
+					{
+						"dish_modification_id": 317,
+						"name": "Декаф",
+						"price": 300,
+						"image_url": "/assets/ico/coffee/decaf.webp"
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 104,
+				"name": "Молоко",
+				"modifications": [
+					{
+						"dish_modification_id": 318,
+						"name": "Стандартное",
+						"image_url": "/assets/ico/milk/milk.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 319,
+						"name": "Кокосовое",
+						"image_url": "/assets/ico/milk/coc_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 412,
+						"name": "Миндальное",
+						"image_url": "/assets/ico/milk/alm_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 413,
+						"name": "Фундучное",
+						"image_url": "/assets/ico/milk/haz_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 414,
+						"name": "Соевое",
+						"image_url": "/assets/ico/milk/soya_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 428,
+						"name": "Овсяное",
+						"image_url": "/assets/ico/milk/out_milk.webp",
+						"price": 300
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 105,
+				"name": "Сироп",
+				"modifications": [
+					{
+						"dish_modification_id": 320,
+						"name": "Без сиропа",
+						"image_url": "/assets/ico/syrup/no_syrup.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 321,
+						"name": "Карамель",
+						"image_url": "/assets/ico/syrup/car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 532,
+						"name": "Соленая карамель",
+						"image_url": "/assets/ico/syrup/salt_car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 533,
+						"name": "Шоколад",
+						"image_url": "/assets/ico/syrup/choko.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 534,
+						"name": "Ваниль",
+						"image_url": "/assets/ico/syrup/van.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 535,
+						"name": "Орех",
+						"image_url": "/assets/ico/syrup/haz.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 536,
+						"name": "Попкорн",
+						"image_url": "/assets/ico/syrup/pop.webp",
+						"price": 50
+					}
+				]
+			}
+		]
+	},
+	{
+		"product_id": "434",
+		"product_name": "Ice Latte M",
+		"category_id": "41",
+		"category_name": "Ice Coffee",
+		"category_image": "/assets/images/icelatte.webp",
+		"image_url": "/assets/images/icelatte.webp",
+		"price": {
+			"1": "900"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 106,
+				"name": "Зерно",
+				"modifications": [
+					{
+						"dish_modification_id": 322,
+						"name": "Арабика 100 %",
+						"price": 0,
+						"image_url": "/assets/ico/coffee/arab.webp"
+					},
+					{
+						"dish_modification_id": 323,
+						"name": "Декаф",
+						"price": 150,
+						"image_url": "/assets/ico/coffee/decaf.webp"
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 107,
+				"name": "Молоко",
+				"modifications": [
+					{
+						"dish_modification_id": 324,
+						"name": "Стандартное",
+						"image_url": "/assets/ico/milk/milk.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 325,
+						"name": "Кокосовое",
+						"image_url": "/assets/ico/milk/coc_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 415,
+						"name": "Миндальное",
+						"image_url": "/assets/ico/milk/alm_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 416,
+						"name": "Фундучное",
+						"image_url": "/assets/ico/milk/haz_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 417,
+						"name": "Соевое",
+						"image_url": "/assets/ico/milk/soya_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 429,
+						"name": "Овсяное",
+						"image_url": "/assets/ico/milk/out_milk.webp",
+						"price": 300
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 108,
+				"name": "Сироп",
+				"modifications": [
+					{
+						"dish_modification_id": 326,
+						"name": "Без сиропа",
+						"image_url": "/assets/ico/syrup/no_syrup.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 327,
+						"name": "Карамель",
+						"image_url": "/assets/ico/syrup/car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 546,
+						"name": "Соленая карамель",
+						"image_url": "/assets/ico/syrup/salt_car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 547,
+						"name": "Шоколад",
+						"image_url": "/assets/ico/syrup/choko.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 548,
+						"name": "Ваниль",
+						"image_url": "/assets/ico/syrup/van.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 549,
+						"name": "Орех",
+						"image_url": "/assets/ico/syrup/haz.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 550,
+						"name": "Попкорн",
+						"image_url": "/assets/ico/syrup/pop.webp",
+						"price": 50
+					}
+				]
+			}
+		]
+	},
+	{
+		"product_id": "923",
+		"product_name": "Bumble Coffee L",
+		"category_id": "38",
+		"category_name": "Ice Coffee",
+		"category_image": "/assets/images/icelatte.webp",
+		"image_url": "/assets/images/bumble.webp",
+		"price": {
+			"1": "1500"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 144,
+				"name": "Зерно",
+				"modifications": [
+					{
+						"dish_modification_id": 577,
+						"name": "Арабика 100 %",
+						"image_url": "/assets/ico/coffee/arab.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 578,
+						"name": "Декаф",
+						"image_url": "/assets/ico/coffee/decaf.webp",
+						"price": 300
+					}
+				]
+			}
+		]
+	},
+	{
+		"product_id": "589",
+		"product_name": "Bumble Coffee M",
+		"category_id": "38",
+		"category_name": "Ice Coffee",
+		"category_image": "/assets/images/icelatte.webp",
+		"image_url": "/assets/images/bumble.webp",
+		"price": {
+			"1": "1000"
+		},
+		"group_modifications": []
+	},
+	{
+		"product_id": "924",
+		"product_name": "Cherry bumble L",
+		"category_id": "38",
+		"category_name": "Ice Coffee",
+		"category_image": "/assets/images/icelatte.webp",
+		"image_url": "/assets/images/cherry.webp",
+		"price": {
+			"1": "1500"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 140,
+				"name": "Зерно",
+				"modifications": [
+					{
+						"dish_modification_id": 551,
+						"name": "Арабика 100 %",
+						"image_url": "/assets/ico/coffee/arab.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 552,
+						"name": "Декаф",
+						"image_url": "/assets/ico/coffee/decaf.webp",
+						"price": 300
+					}
+				]
+			}
+		]
+	},
+	{
+		"product_id": "761",
+		"product_name": "Cherry bumble M",
+		"category_id": "38",
+		"category_name": "Ice Coffee",
+		"category_image": "/assets/images/icelatte.webp",
+		"image_url": "/assets/images/cherry.webp",
+		"price": {
+			"1": "1000"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 141,
+				"name": "Зерно",
+				"modifications": [
+					{
+						"dish_modification_id": 553,
+						"name": "Арабика 100 %",
+						"price": 0,
+						"image_url": "/assets/ico/coffee/arab.webp"
+					},
+					{
+						"dish_modification_id": 554,
+						"name": "Декаф",
+						"price": 300,
+						"image_url": "/assets/ico/coffee/decaf.webp"
+					}
+				]
+			}
+		]
+	},
+	{
+		"product_id": "920",
+		"product_name": "Espresso tonic L",
+		"category_id": "38",
+		"category_name": "Ice Coffee",
+		"category_image": "/assets/images/icelatte.webp",
+		"image_url": "/assets/images/tonic.webp",
+		"price": {
+			"1": "1450"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 142,
+				"name": "Зерно",
+				"modifications": [
+					{
+						"dish_modification_id": 555,
+						"name": "Арабика 100 %",
+						"price": 0,
+						"image_url": "/assets/ico/coffee/arab.webp"
+					},
+					{
+						"dish_modification_id": 556,
+						"name": "Декаф",
+						"price": 300,
+						"image_url": "/assets/ico/coffee/decaf.webp"
+					}
+				]
+			}
+		]
+	},
+	{
+		"product_id": "871",
+		"product_name": "Espresso tonic M",
+		"category_id": "38",
+		"category_name": "Ice Coffee",
+		"category_image": "/assets/images/icelatte.webp",
+		"image_url": "/assets/images/tonic.webp",
+		"price": {
+			"1": "1350"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 143,
+				"name": "Зерно",
+				"modifications": [
+					{
+						"dish_modification_id": 557,
+						"name": "Арабика 100 %",
+						"price": 0,
+						"image_url": "/assets/ico/coffee/arab.webp"
+					},
+					{
+						"dish_modification_id": 558,
+						"name": "Декаф",
+						"price": 300,
+						"image_url": "/assets/ico/coffee/decaf.webp"
+					}
+				]
+			}
+		]
+	},
+
+	{
+		"product_id": "977",
+		"product_name": "Дамасская роза",
+		"category_image": "/assets/images/rose.webp",
+		"image_url": "/assets/images/rose.webp",
+		"category_id": "52",
+		"category_name": "Ice Tea",
+		"price": {
+			"1": "1100"
+		},
+		"group_modifications": []
+	},
+	{
+		"product_id": "975",
+		"product_name": "Зеленая груша",
+		"category_id": "52",
+		"category_name": "Ice Tea",
+		"category_image": "/assets/images/rose.webp",
+		"image_url": "/assets/images/zlgru.webp",
+		"price": {
+			"1": "1100"
+		},
+		"group_modifications": []
+	},
+	{
+		"product_id": "976",
+		"product_name": "Мараскино",
+		"category_id": "52",
+		"category_name": "Ice Tea",
+		"category_image": "/assets/images/rose.webp",
+		"image_url": "/assets/images/mras.webp",
+		"price": {
+			"1": "1100"
+		},
+		"group_modifications": []
+	},
+
+	{
+		"product_id": "972",
+		"product_name": "Цветочный ( Жасмин и Персик)",
+		"category_id": "20",
+		"category_name": "Lemonade",
+		"category_image": "/assets/images/flow.webp",
+		"image_url": "/assets/images/flow.webp",
+		"price": {
+			"1": "1000"
+		},
+		"group_modifications": []
+	},
+	{
+		"product_id": "974",
+		"product_name": "Цитрусовый ( Маракуйя и Бергамот)",
+		"category_id": "20",
+		"category_name": "Lemonade",
+		"category_image": "/assets/images/flow.webp",
+		"image_url": "/assets/images/citr.webp",
+		"price": {
+			"1": "1000"
+		},
+		"group_modifications": []
+	},
+	{
+		"product_id": "973",
+		"product_name": "Ягодный ( Вишня и Личи)",
+		"category_id": "20",
+		"category_name": "Lemonade",
+		"category_image": "/assets/images/flow.webp",
+		"image_url": "/assets/images/berry.webp",
+		"price": {
+			"1": "1000"
+		},
+		"group_modifications": []
+	},
+
+	{
+		"product_id": "450",
+		"product_name": "Матча L",
+		"category_id": "8",
+		"category_name": "Hot drinks",
+		"category_image": "/assets/images/gorshok.webp",
+		"image_url": "/assets/images/kamel.webp",
+		"price": {
+			"1": "1000"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 126,
+				"name": "Матча",
+				"modifications": [
+					{
+						"dish_modification_id": 366,
+						"name": "Зеленая матча",
+						"price": 0,
+						"image_url": "/assets/ico/green.webp"
+					},
+					{
+						"dish_modification_id": 367,
+						"name": "Синяя матча",
+						"image_url": "/assets/ico/blue.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 368,
+						"name": "Розовая матча",
+						"image_url": "/assets/ico/ros.webp",
+						"price": 0
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 120,
+				"name": "Молоко",
+				"modifications": [
+					{
+						"dish_modification_id": 352,
+						"name": "Стандартное",
+						"image_url": "/assets/ico/milk/milk.webp",
+						"price": 1000
+					},
+					{
+						"dish_modification_id": 353,
+						"name": "Кокосовое",
+						"image_url": "/assets/ico/milk/coc_milk.webp",
+						"price": 1300
+					},
+					{
+						"dish_modification_id": 500,
+						"name": "Миндальное",
+						"image_url": "/assets/ico/milk/alm_milk.webp",
+						"price": 1300
+					},
+					{
+						"dish_modification_id": 501,
+						"name": "Фундучное",
+						"image_url": "/assets/ico/milk/haz_milk.webp",
+						"price": 1300
+					},
+					{
+						"dish_modification_id": 502,
+						"name": "Соевое",
+						"image_url": "/assets/ico/milk/soya_milk.webp",
+						"price": 1300
+					},
+					{
+						"dish_modification_id": 503,
+						"name": "Овсяное",
+						"image_url": "/assets/ico/milk/out_milk.webp",
+						"price": 1300
+					}
+				]
+			},
+			{
+				"dish_modification_group_id": 121,
+				"name": "Сироп",
+				"modifications": [
+					{
+						"dish_modification_id": 354,
+						"name": "Без сиропа",
+						"image_url": "/assets/ico/syrup/no_syrup.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 355,
+						"name": "Карамель",
+						"image_url": "/assets/ico/syrup/car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 504,
+						"name": "Соленая карамель",
+						"image_url": "/assets/ico/syrup/salt_car.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 505,
+						"name": "Шоколад",
+						"image_url": "/assets/ico/syrup/choko.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 506,
+						"name": "Ваниль",
+						"image_url": "/assets/ico/syrup/van.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 507,
+						"name": "Орех",
+						"image_url": "/assets/ico/syrup/haz.webp",
+						"price": 50
+					},
+					{
+						"dish_modification_id": 508,
+						"name": "Попкорн",
+						"image_url": "/assets/ico/syrup/pop.webp",
+						"price": 50
+					}
+				]
+			}
+		]
+	},
+	{
+		"product_id": "328",
+		"product_name": "Горячий шоколад",
+		"category_id": "8",
+		"category_name": "Hot drinks",
+		"category_image": "/assets/images/gorshok.webp",
+		"image_url": "/assets/images/gorshok.webp",
+		"price": {
+			"1": "790"
+		},
+		"group_modifications": [
+			{
+				"dish_modification_group_id": 82,
+				"name": "Молоко",
+				"modifications": [
+					{
+						"dish_modification_id": 264,
+						"name": "Стандартное",
+						"image_url": "/assets/ico/milk/milk.webp",
+						"price": 0
+					},
+					{
+						"dish_modification_id": 265,
+						"name": "Кокосовое",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 569,
+						"name": "Миндальное",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 570,
+						"name": "Соевое",
+						"image_url": "/assets/ico/milk/soya_milk.webp",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 571,
+						"name": "Овсяное ",
+						"price": 300
+					},
+					{
+						"dish_modification_id": 572,
+						"name": "Фундучное",
+						"image_url": "/assets/ico/milk/haz_milk.webp",
+						"price": 300
+					}
+				]
+			}
+		]
+	}
+]

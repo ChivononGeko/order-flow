@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="icon" type="image/png" href="assets/logo/fav.png" />
+		<title>HP Coffee NU</title>
+		<link rel="stylesheet" href="css/styles.css" />
+		<link
+			rel="stylesheet"
+			href="https://cdn.jsdelivr.net/npm/simple-keyboard@latest/build/css/index.css"
+		/>
+		<script src="https://cdn.jsdelivr.net/npm/simple-keyboard@latest/build/index.js"></script>
+		<link
+			rel="stylesheet"
+			href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+		/>
+		<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+	</head>
+	<body>
+		<header>
+			<div class="header-content">
+				<img src="assets/logo/logo.png" alt="Шапка" class="logo" />
+			</div>
+		</header>
+
+		<div id="idle-overlay" class="idle-overlay">
+			<div class="idle-message">
+				<h2>☕ This is a self-service checkout</h2>
+				<p>You can currently order coffee only.</p>
+				<p>The system is running in test mode.</p>
+				<p>If you need help, please contact the barista.</p>
+
+				<hr />
+
+				<h2>☕ Это касса самообслуживания</h2>
+				<p>Сейчас можно заказать только кофе.</p>
+				<p>Касса работает в тестовом режиме.</p>
+				<p>Если возникли вопросы — обратитесь к бариста.</p>
+
+				<hr />
+
+				<h2>☕ Būl özın-özı qyzmet körsetu kasasy</h2>
+				<p>Qazır tek kofe tapsyrys beruge bolady.</p>
+				<p>Kasa synaq rejimınde jūmys ıstep tūr.</p>
+				<p>Sūraqtaryñyz bolsa — baristağa habarlasyñyz.</p>
+			</div>
+		</div>
+
+		<div id="popup-overlay" class="popup-overlay">
+			<div id="custom-popup" class="popup">
+				<span class="close-popup">&times;</span>
+				<p id="popup-message">Ошибка</p>
+			</div>
+		</div>
+
+		<section class="menu-container">
+			<div class="container" id="menu"></div>
+			<div class="cart-container">
+				<button id="cartButton">Сделать заказ</button>
+			</div>
+		</section>
+
+		<!-- Модальное окно для модификаций -->
+		<div id="modification-modal" class="modal">
+			<div class="modal-content">
+				<button class="close-btn" onclick="closeModificationModal()">✖</button>
+				<h3 id="modal-product-name"></h3>
+				<div id="modal-modifications"></div>
+				<button id="confirm-add-to-cart">Добавить</button>
+			</div>
+		</div>
+
+		<!-- Модальное окно корзины -->
+		<div id="cartModal" class="modal">
+			<div class="modal-content">
+				<button class="close-btn" onclick="closeCartModal()">✖</button>
+				<h2>Ваш заказ</h2>
+				<div id="cart"></div>
+				<p id="totalPrice">Итого: 0.00</p>
+				<label>Ваше имя: <input type="text" id="customerName" /></label>
+				<button id="submitOrder">Оформить заказ</button>
+			</div>
+		</div>
+
+		<div id="loading-overlay">
+			<div class="spinner"></div>
+		</div>
+
+		<footer>
+			<p>
+				Любые идеи и предложения, а также замечания по работе сайта и кофейни
+				можно присылать нам!
+			</p>
+			<div class="contact-links">
+				<!-- Email -->
+				<div class="contact-item" data-type="mail">
+					<img src="assets/logo/ps.png" alt="Email" width="20" height="20" />
+				</div>
+
+				<!-- WhatsApp -->
+				<div class="contact-item" data-type="wa">
+					<img src="assets/logo/wa.png" alt="WhatsApp" width="20" height="20" />
+				</div>
+
+				<!-- Telegram -->
+				<div class="contact-item" data-type="tg">
+					<img src="assets/logo/tg.png" alt="Telegram" width="20" height="20" />
+				</div>
+			</div>
+
+			<!-- Контейнер для отображения QR-кода -->
+			<div id="qr-code-container">
+				<div id="qr-code-box">
+					<div id="close-btn">×</div>
+					<img id="qr-code-image" src="" alt="QR Code" />
+				</div>
+			</div>
+		</footer>
+
+		<!-- Контейнер для экранной клавиатуры -->
+		<div id="keyboard" class="keyboard-container" style="display: none">
+			<div class="simple-keyboard"></div>
+		</div>
+
+		<script src="js/script.js" defer></script>
+	</body>
+</html>
